@@ -13,7 +13,6 @@ The JobisnotJoke app is a mobile application developed to assist the community i
 ## Technology Stack
 
 - **Frontend**: React Native
-- **Backend**: Node.js with Express
 - **APIs**: RapidAPI for job data aggregation
 
 ## Getting Started
