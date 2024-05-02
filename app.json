@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "JobSite",
+    "slug": "JobSite",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "487f4399-f547-4424-a718-a0f7bbc1a701"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/487f4399-f547-4424-a718-a0f7bbc1a701"
+    },
+    "android": {},
+    "ios": {
+      "bundleIdentifier": "com.sheldonlee16.JobSite"
+    }
+  }
+}
